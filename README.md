@@ -1,1 +1,3 @@
 # Kevin-Pomier-kpomier777
+mi nombre es kevin pomier , estudiante de penultimo semestre de la carrera de ingenieria en sistemas en la universidad de la UPB (universidad privada Boliviana ) , me gusta el desarrollo de las aplicaciones moviles y aplicacion de esistemas en empresas .
+Trabajo en una empresa llamada textiles copacabana que se encuentra ubicada en la ciudad de El Alto - Bolivia , me dedico a controlar el sistema produccion, controlando tiempos y movimientos con metodos cientificos : como ser pomodoro , cascada y kanbas . La aplicacion de sistemas en las empresas es para ser creativos
